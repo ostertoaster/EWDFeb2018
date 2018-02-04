@@ -1,6 +1,6 @@
 # Enterprise Web Developer 2018
 
-Thank you for your time in interviewing as a finalist for the Enterprise Web Developer Position. Bellow are two coding tasks we'd like you to complete and submit prior to your interview. A few notes:
+Thank you for your time in interviewing as a finalist for the Enterprise Web Developer position. Bellow are two coding tasks we'd like you to complete and submit prior to your interview. A few notes:
 * It's important to note that this is not a test. We want to get an idea for how you write code and solve problems. 
 * We will be reviewing your submissions with you, so be prepared to discuss the steps you took to arrive at your solution.
 * This is NOT closed book--use whatever resources you need. It's what we'd expect of you on the job.
