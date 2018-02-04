@@ -1,0 +1,74 @@
+[
+  {
+    "data": [
+      {
+        "balance": "125.04",
+        "earned": 13.33,
+        "type": "Vacation",
+        "used": 8.0
+      },
+      {
+        "balance": "112.00",
+        "earned": 8.0,
+        "type": "Sick",
+        "used": 0.0
+      }
+    ],
+    "monthDisplay": "November 2017",
+    "payDate": "20171130T00:00:00Z"
+  },
+  {
+    "data": [
+      {
+        "balance": "104.00",
+        "earned": 8.0,
+        "type": "Sick",
+        "used": 0.0
+      },
+      {
+        "balance": "119.71",
+        "earned": 13.33,
+        "type": "Vacation",
+        "used": 4.0
+      }
+    ],
+    "monthDisplay": "October 2017",
+    "payDate": "20171031T00:00:00Z"
+  },
+  {
+    "data": [
+      {
+        "balance": "151.70",
+        "earned": 13.33,
+        "type": "Vacation",
+        "used": 0.0
+      },
+      {
+        "balance": "128.00",
+        "earned": 8.0,
+        "type": "Sick",
+        "used": 0.0
+      }
+    ],
+    "monthDisplay": "January 2018",
+    "payDate": "20180131T00:00:00Z"
+  },
+  {
+    "data": [
+      {
+        "balance": "120.00",
+        "earned": 8.0,
+        "type": "Sick",
+        "used": 0.0
+      },
+      {
+        "balance": "138.37",
+        "earned": 13.33,
+        "type": "Vacation",
+        "used": 0.0
+      }
+    ],
+    "monthDisplay": "December 2017",
+    "payDate": "20171231T00:00:00Z"
+  }
+]
